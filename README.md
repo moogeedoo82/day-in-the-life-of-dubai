@@ -33,7 +33,7 @@ The visualization presents a modeled 24-hour day in Dubai across 17 activity cat
 - Housework
 - Miscellaneous
 
-The interface includes animated movement between activity clusters, playback-speed controls, a time-of-day slider, weekday/weekend scenarios, and clear labeling of official-data inputs versus model assumptions.
+The interface includes animated movement between activity clusters, playback-speed controls, a time-of-day slider, weekday/weekend scenarios, a hands-only analog clock synchronized with the simulated time, a compact About this chart explanation, and clear labeling of official-data inputs versus model assumptions.
 
 ## Data foundation
 
