@@ -1,6 +1,6 @@
 # A Day in the Life of Dubai
 
-An interactive 24-hour visualization of life in Dubai, inspired by Nathan Yau / FlowingData's **A Day in the Life of Americans**.
+An interactive 24-hour visualization of life in Dubai.
 
 This project uses **official Dubai/UAE statistics as calibration inputs** and combines them with **clearly documented modeling assumptions** to simulate how 1,000 representative residents move through daily activities.
 
@@ -71,7 +71,7 @@ The visualization is calibrated using official or authoritative Dubai/UAE indica
 
 ## What is modeled
 
-Dubai does not currently provide a public ATUS-style minute-by-minute time-diary microdataset equivalent to the U.S. American Time Use Survey.
+A public Dubai minute-by-minute time-diary microdataset was not identified for this project.
 
 Therefore the following elements are **modeled assumptions**, not direct measured Dubai time-use statistics:
 
@@ -143,15 +143,6 @@ The animation should be read as:
 > **A statistical model based on real Dubai/UAE data — not direct measured time-use data.**
 
 It is intended for data visualization, analytical storytelling, methodological exploration, and portfolio demonstration.
-
-## Inspiration
-
-Visualization concept inspired by:
-
-**Nathan Yau / FlowingData — _A Day in the Life of Americans_ (2015)**  
-https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/
-
-This project is an independent Dubai-focused implementation and does not reproduce the original FlowingData source code.
 
 ## Author
 
