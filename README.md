@@ -8,7 +8,7 @@ This project uses **official Dubai/UAE statistics as calibration inputs** and co
 
 ## Live visualization
 
-**[Open the interactive visualization](https://astonishing-cascaron-2540b3.netlify.app/)**
+**[Open the interactive visualization](https://day-in-the-life-of-dubai.netlify.app/)**
 
 The interactive chart is hosted on Netlify. This repository contains the project documentation and methodology.
 ## What the visualization shows
