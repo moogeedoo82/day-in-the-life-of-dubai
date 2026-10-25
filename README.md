@@ -8,8 +8,9 @@ This project uses **official Dubai/UAE statistics as calibration inputs** and co
 
 ## Live visualization
 
-After GitHub Pages is enabled, the interactive visualization will be available from this repository's GitHub Pages URL.
+**[Open the interactive visualization](https://astonishing-cascaron-2540b3.netlify.app/)**
 
+The interactive chart is hosted on Netlify. This repository contains the project documentation and methodology.
 ## What the visualization shows
 
 Each moving dot represents approximately **4,471 Dubai residents**, using a resident population scale of approximately **4.471 million (Q3 2025)**.
@@ -113,28 +114,6 @@ This project is deliberately lightweight:
 
 No build process or external JavaScript libraries are required.
 
-## Run locally
-
-Clone the repository and open `index.html` in a modern browser.
-
-```bash
-git clone https://github.com/moogeedoo82/day-in-the-life-of-dubai.git
-cd day-in-the-life-of-dubai
-```
-
-Then open `index.html`, or use the **Live Server** extension in Visual Studio Code.
-
-## Publish with GitHub Pages
-
-Once the repository is on GitHub:
-
-1. Open **Settings**
-2. Select **Pages**
-3. Under **Build and deployment**, select **Deploy from a branch**
-4. Select the `main` branch and `/ (root)`
-5. Save
-
-GitHub will publish the project as a live interactive webpage.
 
 ## Interpretation
 
