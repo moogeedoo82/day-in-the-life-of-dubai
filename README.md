@@ -83,3 +83,10 @@ It is intended for data visualization, analytical storytelling, methodological e
 
 **Mohamed Abdelmaguid**  
 Data Analytics · Business Intelligence · Automation · Data Visualization
+
+
+## Copyright
+
+© 2026 Mohamed Abdelmaguid. All rights reserved.
+
+This repository and the associated visualization are provided for viewing and portfolio demonstration only. No permission is granted to copy, reproduce, redistribute, republish, modify, or create derivative works from the visualization, design, methodology, or implementation without the author's prior written permission.
