@@ -13,83 +13,39 @@ This project uses **official Dubai/UAE statistics as calibration inputs** and co
 The interactive chart is hosted on Netlify. This repository contains the project documentation and methodology.
 ## What the visualization shows
 
-Each moving dot represents approximately **4,471 Dubai residents**, using a resident population scale of approximately **4.471 million (Q3 2025)**.
+The visualization presents a modeled 24-hour day in Dubai across 17 activity categories:
 
-The model includes 17 activity categories:
+- Work
+- Eating & Drinking
+- Traveling
+- Education
+- Sleeping
+- Leisure
+- Shopping
+- Sports
+- Religion
+- Personal Care
+- Household Care
+- Non-Household Care
+- Professional Care Services
+- Volunteering
+- Phone Calls
+- Housework
+- Miscellaneous
 
-1. Work
-2. Eating & Drinking
-3. Traveling
-4. Education
-5. Sleeping
-6. Leisure
-7. Shopping
-8. Sports
-9. Religion
-10. Personal Care
-11. Household Care
-12. Non-Household Care
-13. Professional Care Services
-14. Volunteering
-15. Phone Calls
-16. Housework
-17. Miscellaneous
-
-The interface includes:
-
-- Animated movement between activity clusters
-- Slow / Medium / Fast playback
-- Time-of-day slider
-- Representative weekday / weekend scenario
-- Evidence and methodology section
-- Official-data versus model-assumption labeling
-- Vibrant category colors with subtle particle glow
+The interface includes animated movement between activity clusters, playback-speed controls, a time-of-day slider, weekday/weekend scenarios, and clear labeling of official-data inputs versus model assumptions.
 
 ## Data foundation
 
-The visualization is calibrated using official or authoritative Dubai/UAE indicators where available, including:
+The visualization is calibrated using official or authoritative Dubai/UAE indicators where available, including population structure, labour-force indicators, education, mobility, working-hours guidance, physical activity, and prayer-time timing.
 
-- Dubai resident population and age structure
-- Peak active population
-- Labour-force participation
-- Private-school enrolment
-- Private higher-education enrolment
-- Public transport, shared mobility and taxi ridership
-- UAE working-hours framework
-- Physical-activity indicators
-- Dubai prayer-time timing
-
-### Key calibration figures used
-
-- Resident population scale: **4.471 million** (Q3 2025)
-- Peak active population: **6.217 million** (Q3 2025)
-- Age 25–44 share: **56.72%** (end-2024)
-- Private-school students: **387,441** (2024–25)
-- Private higher-education students: **42,026** (2024–25)
-- RTA public transport/shared mobility/taxi riders: **747.1 million** (2024)
-- Dubai Labour Force Survey refined economic participation rate used for calibration: **82.8%** (2019)
-- DHA physical-activity reference: approximately **20% of adults aged 18+** had sufficient physical activity in the referenced 2019 indicator
+No source datasets or raw data files are stored in this repository.
 
 ## What is modeled
 
 A public Dubai minute-by-minute time-diary microdataset was not identified for this project.
 
-Therefore the following elements are **modeled assumptions**, not direct measured Dubai time-use statistics:
-
-- Exact sleep and wake times
-- Work and school start-time distributions
-- Commute duration distributions
-- Meal timing and duration
-- Shopping participation
-- Household and non-household care
-- Phone calls
-- Volunteering
-- Professional care services
-- Religious participation rates
-- Weekend activity sequencing
-- Minute-by-minute transitions between activities
-
-The project deliberately exposes this distinction so that the model can be refined when better Dubai time-use microdata becomes available.
+The minute-by-minute activity sequence is therefore a statistical model using documented assumptions for timing and participation patterns. These assumptions are shown in the live visualization and are not presented as direct measured Dubai time-use statistics.
 
 ## Primary sources
 
